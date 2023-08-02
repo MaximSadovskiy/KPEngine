@@ -5,13 +5,15 @@
 *.vcxproj.user
 *.props
 *.targets
+*.tlog
+*.idb
+*.recipe
 
 *.ipch
 *.vsidx
 *.obj
 *.pdb
 *.pch
-*.exe
 *.aps
 *.ilk
 *.meta
@@ -24,3 +26,7 @@
 *.dmp
 
 .vs/
+KPEngine/bin/
+KPEngine/bin-obj/
+ExampleApp/bin/
+ExampleApp/bin-obj/

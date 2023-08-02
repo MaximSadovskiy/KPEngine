@@ -1,6 +1,6 @@
 workspace "KPEngine"
     architecture "x64"
-	startproject "KPEngine"
+	startproject "ExampleApp"
     configurations 
     {
         "Debug",
